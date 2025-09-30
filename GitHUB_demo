@@ -12,4 +12,8 @@ testujeme local zmeny a jejich propagaci online.
 
 testujeme merch funkcionalitu.
 
+<<<<<<< HEAD
 testujeme konflikt merge z vetve feature
+=======
+testujeme konflikt merge z vetve feature...
+>>>>>>> featureB
